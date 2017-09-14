@@ -1,0 +1,2 @@
+# STAMS
+Implements STAMS algorithm
